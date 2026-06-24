@@ -17,6 +17,10 @@
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,mongodb,html,css,js,git,github,vscode)](https://skillicons.dev)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/abhilasha-17/abhilasha-17/output/github-contribution-grid-snake.svg)
 <!--
 **abhilasha-17/abhilasha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
