@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hey, I am Abhilasha 👋
+
+🎓 Final Year B.Tech CSE Student
+💼 Intern @ Tata Cummins
+🚀 Building AI & Data Analytics Projects
+🌱 Currently learning DSA, System Design and Full Stack Development
 
 <!--
 **abhilasha-17/abhilasha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
