@@ -8,9 +8,15 @@
 
 🌱 Currently learning DSA, System Design and Full Stack Development
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhilasha-17&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilasha-17&layout=compact&theme=tokyonight)
+
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,mongodb,html,css,js,react,nextjs,fastapi,firebase,git,github,vscode,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,mongodb,html,css,js,git,github,vscode)](https://skillicons.dev)
 <!--
 **abhilasha-17/abhilasha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
