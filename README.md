@@ -1,4 +1,4 @@
-# Hey, I am Abhilasha 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=700&color=00C2FF&vCenter=true&width=1000&lines=Hey,+I+am+Abhilasha+👋;Final+Year+B.Tech+CSE+Student;Always+Learning,+Always+Building)](https://git.io/typing-svg)
 
 🎓 Final Year B.Tech CSE Student
 
@@ -8,6 +8,9 @@
 
 🌱 Currently learning DSA, System Design and Full Stack Development
 
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,mongodb,html,css,js,react,nextjs,fastapi,firebase,git,github,vscode,tensorflow)](https://skillicons.dev)
 <!--
 **abhilasha-17/abhilasha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
