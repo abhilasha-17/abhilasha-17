@@ -1,8 +1,11 @@
 # Hey, I am Abhilasha 👋
 
 🎓 Final Year B.Tech CSE Student
+
 💼 Intern @ Tata Cummins
+
 🚀 Building AI & Data Analytics Projects
+
 🌱 Currently learning DSA, System Design and Full Stack Development
 
 <!--
