@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhilasha-17&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhilasha-17&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilasha-17&layout=compact&theme=tokyonight)
 
