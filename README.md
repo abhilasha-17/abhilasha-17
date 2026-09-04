@@ -14,7 +14,7 @@
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhilasha-17&layout=compact&langs_count=6&theme=transparent&hide_border=true)
 
-**📁 Public Repositories:** 5
+**📁 Public Repositories:** 8
 
 ## 💻 Tech Stack
 
